@@ -18,8 +18,8 @@ namespace ConsoleCalculator
             Console.WriteLine("  (*^_^*)  ");
             Console.ReadKey();
 
-            int number1;
-            int number2;
+            float number1;
+            float number2;
             string operation;
             float result;
 
@@ -32,11 +32,6 @@ namespace ConsoleCalculator
             Console.Write("Please enter your second number: ");
             number2 = Convert.ToInt32(Console.ReadLine());
 
-            if (number2 <= 0 || number1 <= 0)
-            {
-                Console.WriteLine("Please enter only positive number");
-            }
-            
             switch (operation)
             {
                 case "+":
