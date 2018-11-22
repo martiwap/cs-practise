@@ -1,0 +1,7 @@
+C:\Users\Martina Natale\Desktop\mart-notes\trials\calculator\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\Martina Natale\Desktop\mart-notes\trials\calculator\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\Martina Natale\Desktop\mart-notes\trials\calculator\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\Martina Natale\Desktop\mart-notes\trials\calculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\Martina Natale\Desktop\mart-notes\trials\calculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Martina Natale\Desktop\mart-notes\trials\calculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\Martina Natale\Desktop\mart-notes\trials\calculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
