@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/TypeConversion/TypeConversion/bin/Debug/TypeConversion.exe
+/home/martina/Sites/cs-practise/TypeConversion/TypeConversion/bin/Debug/TypeConversion.pdb
+/home/martina/Sites/cs-practise/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.exe
+/home/martina/Sites/cs-practise/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.pdb

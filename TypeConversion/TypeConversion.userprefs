@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{D31610DE-1CBC-4459-B052-DD31470B3558}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TypeConversion/Program.cs">
+    <Files>
+      <File FileName="TypeConversion/Program.cs" Line="9" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
