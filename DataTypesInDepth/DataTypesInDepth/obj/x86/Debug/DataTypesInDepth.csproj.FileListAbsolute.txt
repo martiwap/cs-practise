@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/DataTypesInDepth/DataTypesInDepth/bin/Debug/DataTypesInDepth.exe
+/home/martina/Sites/cs-practise/DataTypesInDepth/DataTypesInDepth/bin/Debug/DataTypesInDepth.pdb
+/home/martina/Sites/cs-practise/DataTypesInDepth/DataTypesInDepth/obj/x86/Debug/DataTypesInDepth.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/DataTypesInDepth/DataTypesInDepth/obj/x86/Debug/DataTypesInDepth.exe
+/home/martina/Sites/cs-practise/DataTypesInDepth/DataTypesInDepth/obj/x86/Debug/DataTypesInDepth.pdb

@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/DateTimeLecture/DateTimeLecture/bin/Debug/DateTimeLecture.exe
+/home/martina/Sites/cs-practise/DateTimeLecture/DateTimeLecture/bin/Debug/DateTimeLecture.pdb
+/home/martina/Sites/cs-practise/DateTimeLecture/DateTimeLecture/obj/x86/Debug/DateTimeLecture.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/DateTimeLecture/DateTimeLecture/obj/x86/Debug/DateTimeLecture.exe
+/home/martina/Sites/cs-practise/DateTimeLecture/DateTimeLecture/obj/x86/Debug/DateTimeLecture.pdb
