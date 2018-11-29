@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9DE9B3F4-A72D-4806-9C60-B05CFE22174B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Loops/Program.cs">
+    <Files>
+      <File FileName="Loops/Program.cs" Line="9" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/Loops/Loops/bin/Debug/Loops.exe
+/home/martina/Sites/cs-practise/Loops/Loops/bin/Debug/Loops.pdb
+/home/martina/Sites/cs-practise/Loops/Loops/obj/x86/Debug/Loops.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/Loops/Loops/obj/x86/Debug/Loops.exe
+/home/martina/Sites/cs-practise/Loops/Loops/obj/x86/Debug/Loops.pdb
