@@ -53,6 +53,26 @@ namespace Loops
                 So Bob Martin's recommendation is that the dept of nested structured should be two at most. 
             */
 
+            Console.WriteLine("Display even numbers up to 100:");
+            for (int i = 1; i <= 100; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i + ", ");
+                }
+            }
+            Console.WriteLine("---------------------");
+
+            for (int i = 1; i <= 10; i++)
+            {
+                for (int j = 1; j <= i; j++)
+                {
+                    Console.Write("0");
+                }
+                Console.WriteLine();
+            }
+
+
         }
     }
 }
