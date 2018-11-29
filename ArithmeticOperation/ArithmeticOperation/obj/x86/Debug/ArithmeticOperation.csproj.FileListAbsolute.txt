@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/ArithmeticOperation/ArithmeticOperation/bin/Debug/ArithmeticOperation.exe
+/home/martina/Sites/cs-practise/ArithmeticOperation/ArithmeticOperation/bin/Debug/ArithmeticOperation.pdb
+/home/martina/Sites/cs-practise/ArithmeticOperation/ArithmeticOperation/obj/x86/Debug/ArithmeticOperation.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/ArithmeticOperation/ArithmeticOperation/obj/x86/Debug/ArithmeticOperation.exe
+/home/martina/Sites/cs-practise/ArithmeticOperation/ArithmeticOperation/obj/x86/Debug/ArithmeticOperation.pdb

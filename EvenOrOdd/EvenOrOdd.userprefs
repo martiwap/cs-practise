@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{279EA1F9-C944-4509-ADAC-7925BE6A2C14}|Default">
+  <MonoDevelop.Ide.ItemProperties.EvenOrOdd PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EvenOrOdd/Program.cs">
+    <Files>
+      <File FileName="EvenOrOdd/Program.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

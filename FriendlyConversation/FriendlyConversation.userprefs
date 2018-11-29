@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{18E1B36D-0C7E-42FC-B5BD-90686925E806}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FriendlyConversation/Program.cs">
+    <Files>
+      <File FileName="FriendlyConversation/Program.cs" Line="10" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FriendlyConversation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

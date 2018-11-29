@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/EvenOrOdd/EvenOrOdd/obj/x86/Debug/EvenOrOdd.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/EvenOrOdd/EvenOrOdd/bin/Debug/EvenOrOdd.exe
+/home/martina/Sites/cs-practise/EvenOrOdd/EvenOrOdd/bin/Debug/EvenOrOdd.pdb
+/home/martina/Sites/cs-practise/EvenOrOdd/EvenOrOdd/obj/x86/Debug/EvenOrOdd.exe
+/home/martina/Sites/cs-practise/EvenOrOdd/EvenOrOdd/obj/x86/Debug/EvenOrOdd.pdb

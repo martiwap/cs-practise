@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/WeekdaysAndColors/WeekdaysAndColors/obj/x86/Debug/WeekdaysAndColors.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/WeekdaysAndColors/WeekdaysAndColors/bin/Debug/WeekdaysAndColors.exe
+/home/martina/Sites/cs-practise/WeekdaysAndColors/WeekdaysAndColors/bin/Debug/WeekdaysAndColors.pdb
+/home/martina/Sites/cs-practise/WeekdaysAndColors/WeekdaysAndColors/obj/x86/Debug/WeekdaysAndColors.exe
+/home/martina/Sites/cs-practise/WeekdaysAndColors/WeekdaysAndColors/obj/x86/Debug/WeekdaysAndColors.pdb

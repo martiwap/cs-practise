@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/FriendlyConversation/FriendlyConversation/bin/Debug/FriendlyConversation.exe
+/home/martina/Sites/cs-practise/FriendlyConversation/FriendlyConversation/bin/Debug/FriendlyConversation.pdb
+/home/martina/Sites/cs-practise/FriendlyConversation/FriendlyConversation/obj/x86/Debug/FriendlyConversation.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/FriendlyConversation/FriendlyConversation/obj/x86/Debug/FriendlyConversation.exe
+/home/martina/Sites/cs-practise/FriendlyConversation/FriendlyConversation/obj/x86/Debug/FriendlyConversation.pdb
