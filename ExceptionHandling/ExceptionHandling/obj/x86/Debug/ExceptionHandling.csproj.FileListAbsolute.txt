@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.exe
+/home/martina/Sites/cs-practise/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.pdb
+/home/martina/Sites/cs-practise/ExceptionHandling/ExceptionHandling/obj/x86/Debug/ExceptionHandling.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/ExceptionHandling/ExceptionHandling/obj/x86/Debug/ExceptionHandling.exe
+/home/martina/Sites/cs-practise/ExceptionHandling/ExceptionHandling/obj/x86/Debug/ExceptionHandling.pdb

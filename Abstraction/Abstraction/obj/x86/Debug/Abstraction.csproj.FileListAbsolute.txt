@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/Abstraction/Abstraction/bin/Debug/Abstraction.exe
+/home/martina/Sites/cs-practise/Abstraction/Abstraction/bin/Debug/Abstraction.pdb
+/home/martina/Sites/cs-practise/Abstraction/Abstraction/obj/x86/Debug/Abstraction.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/Abstraction/Abstraction/obj/x86/Debug/Abstraction.exe
+/home/martina/Sites/cs-practise/Abstraction/Abstraction/obj/x86/Debug/Abstraction.pdb

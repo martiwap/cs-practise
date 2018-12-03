@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3BB68FCA-E27C-434C-9048-BC4836FA7087}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExceptionHandling/Program.cs">
+    <Files>
+      <File FileName="ExceptionHandling/Program.cs" Line="25" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.ExceptionHandling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

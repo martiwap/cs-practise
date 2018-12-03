@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CAF4D504-5842-4316-AC08-7D27F9238BA8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountryExercise/World.cs">
+    <Files>
+      <File FileName="CountryExercise/Program.cs" Line="69" Column="6" />
+      <File FileName="CountryExercise/World.cs" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CountryExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

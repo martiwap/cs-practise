@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/CarsExercise/CarsExercise/bin/Debug/CarsExercise.exe
+/home/martina/Sites/cs-practise/CarsExercise/CarsExercise/bin/Debug/CarsExercise.pdb
+/home/martina/Sites/cs-practise/CarsExercise/CarsExercise/obj/x86/Debug/CarsExercise.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/CarsExercise/CarsExercise/obj/x86/Debug/CarsExercise.exe
+/home/martina/Sites/cs-practise/CarsExercise/CarsExercise/obj/x86/Debug/CarsExercise.pdb

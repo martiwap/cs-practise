@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/CountryExercise/CountryExercise/obj/x86/Debug/CountryExercise.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/CountryExercise/CountryExercise/bin/Debug/CountryExercise.exe
+/home/martina/Sites/cs-practise/CountryExercise/CountryExercise/bin/Debug/CountryExercise.pdb
+/home/martina/Sites/cs-practise/CountryExercise/CountryExercise/obj/x86/Debug/CountryExercise.exe
+/home/martina/Sites/cs-practise/CountryExercise/CountryExercise/obj/x86/Debug/CountryExercise.pdb

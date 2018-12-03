@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0ACE81CD-2B3E-4656-BC59-81A39D7E0461}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enumerations/Program.cs">
+    <Files>
+      <File FileName="Enumerations/Program.cs" Line="23" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Enumerations PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

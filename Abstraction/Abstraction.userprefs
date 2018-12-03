@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{23AA738A-8E7E-4014-A992-A0CF9A2A0EF9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Abstraction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abstraction/Program.cs">
+    <Files>
+      <File FileName="Abstraction/Program.cs" Line="11" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Abstraction" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

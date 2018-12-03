@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{8B22E232-024A-4902-8976-601147856C42}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment8/EmptyClass.cs">
+    <Files>
+      <File FileName="Assignment8/Program.cs" Line="1" Column="1" />
+      <File FileName="Assignment8/Animal.cs" Line="34" Column="22" />
+      <File FileName="Assignment8/DogInterface.cs" Line="10" Column="22" />
+      <File FileName="Assignment8/EmptyClass.cs" Line="5" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/martina/Sites/cs-practise/Assignment8/Assignment8/Animal.cs" relfile="Assignment8/Animal.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment8 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
