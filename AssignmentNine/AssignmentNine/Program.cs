@@ -6,11 +6,14 @@ namespace AssignmentNine
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hi User. \nPlease select your options: ");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Welcome! Please choose: ");
             Select:
-            Console.WriteLine("encrypt, decrypt, exit");
+            Console.WriteLine("(E) - encrypt \n(D) - decrypt \n(X)exit");
             Console.WriteLine("And type your option");
+            Console.WriteLine();
 
+            Console.ForegroundColor = ConsoleColor.White;
             string selected = Console.ReadLine().ToLower();
             if (!(selected is string))
             {
@@ -21,34 +24,27 @@ namespace AssignmentNine
             string text;
             int shift;
 
-            try {
-                switch (selected)
-                {
-                    case ("encrypt"):
-                        Console.WriteLine("Enter the text to encrypt, press enter, and enter the shift");
-                        text = Console.ReadLine();
-                        shift = Convert.ToInt32(Console.ReadLine());
-                        Options.Encrypt(text, shift);
-                        break;
-                    case ("decrypt"):
-                        Console.WriteLine("Enter the text to decrypt, press enter, and enter the shift");
-                        text = Console.ReadLine();
-                        shift = Convert.ToInt32(Console.ReadLine());
-                        Options.Decrypt(text, shift);
-                        break;
-                    case ("exit"):
-                        Options.Bye();
-                        break;
-                    default:
-                        Console.WriteLine("Please select an option");
-                        goto Select;
-                }  
-            }
-            catch (Exception e)
+            switch (selected.ToLower())
             {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine(e.Message);
-            }
+                case ("e"):
+                    Console.WriteLine("Enter the text to encrypt, press enter, and enter the shift");
+                    text = Console.ReadLine();
+                    shift = Convert.ToInt32(Console.ReadLine());
+                    Options.Encrypt(text, shift);
+                    break;
+                case ("d"):
+                    Console.WriteLine("Enter the text to decrypt, press enter, and enter the shift");
+                    text = Console.ReadLine();
+                    shift = Convert.ToInt32(Console.ReadLine());
+                    Options.Decrypt(text, shift);
+                    break;
+                case ("x"):
+                    Options.Bye();
+                    break;
+                default:
+                    Console.WriteLine("Please select an option");
+                    goto Select;
+            } 
 
         }
 
