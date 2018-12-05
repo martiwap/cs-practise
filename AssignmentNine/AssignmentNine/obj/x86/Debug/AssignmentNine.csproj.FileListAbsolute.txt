@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/AssignmentNine/AssignmentNine/bin/Debug/AssignmentNine.exe
+/home/martina/Sites/cs-practise/AssignmentNine/AssignmentNine/bin/Debug/AssignmentNine.pdb
+/home/martina/Sites/cs-practise/AssignmentNine/AssignmentNine/obj/x86/Debug/AssignmentNine.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/AssignmentNine/AssignmentNine/obj/x86/Debug/AssignmentNine.exe
+/home/martina/Sites/cs-practise/AssignmentNine/AssignmentNine/obj/x86/Debug/AssignmentNine.pdb
