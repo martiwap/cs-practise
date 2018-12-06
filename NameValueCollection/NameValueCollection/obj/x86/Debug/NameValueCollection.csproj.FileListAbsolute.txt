@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/NameValueCollection/NameValueCollection/bin/Debug/NameValueCollection.exe
+/home/martina/Sites/cs-practise/NameValueCollection/NameValueCollection/bin/Debug/NameValueCollection.pdb
+/home/martina/Sites/cs-practise/NameValueCollection/NameValueCollection/obj/x86/Debug/NameValueCollection.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/NameValueCollection/NameValueCollection/obj/x86/Debug/NameValueCollection.exe
+/home/martina/Sites/cs-practise/NameValueCollection/NameValueCollection/obj/x86/Debug/NameValueCollection.pdb

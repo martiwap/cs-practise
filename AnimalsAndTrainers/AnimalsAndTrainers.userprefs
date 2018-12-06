@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FBD557A7-9D06-455B-9C06-8B5D8A6DBF02}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimalsAndTrainers/Program.cs">
+    <Files>
+      <File FileName="AnimalsAndTrainers/Program.cs" Line="37" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AnimalsAndTrainers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

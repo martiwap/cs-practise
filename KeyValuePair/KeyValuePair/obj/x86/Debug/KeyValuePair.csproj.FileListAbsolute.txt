@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/KeyValuePair/KeyValuePair/bin/Debug/KeyValuePair.exe
+/home/martina/Sites/cs-practise/KeyValuePair/KeyValuePair/bin/Debug/KeyValuePair.pdb
+/home/martina/Sites/cs-practise/KeyValuePair/KeyValuePair/obj/x86/Debug/KeyValuePair.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/KeyValuePair/KeyValuePair/obj/x86/Debug/KeyValuePair.exe
+/home/martina/Sites/cs-practise/KeyValuePair/KeyValuePair/obj/x86/Debug/KeyValuePair.pdb

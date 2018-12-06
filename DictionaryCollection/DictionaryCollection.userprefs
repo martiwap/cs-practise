@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{03D3049D-D0AD-42FA-90EB-7DE9F8982CEE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DictionaryCollection/Program.cs">
+    <Files>
+      <File FileName="DictionaryCollection/Program.cs" Line="27" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DictionaryCollection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

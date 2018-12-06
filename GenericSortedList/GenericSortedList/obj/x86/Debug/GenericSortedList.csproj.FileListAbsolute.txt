@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/GenericSortedList/GenericSortedList/bin/Debug/GenericSortedList.exe
+/home/martina/Sites/cs-practise/GenericSortedList/GenericSortedList/bin/Debug/GenericSortedList.pdb
+/home/martina/Sites/cs-practise/GenericSortedList/GenericSortedList/obj/x86/Debug/GenericSortedList.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/GenericSortedList/GenericSortedList/obj/x86/Debug/GenericSortedList.exe
+/home/martina/Sites/cs-practise/GenericSortedList/GenericSortedList/obj/x86/Debug/GenericSortedList.pdb

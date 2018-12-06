@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{572C18D4-A383-4162-8759-36B7686EFC72}|Default">
+  <MonoDevelop.Ide.ItemProperties.GenericSortedDictionary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericSortedDictionary/Program.cs">
+    <Files>
+      <File FileName="GenericSortedDictionary/Program.cs" Line="46" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/ListOfAnimalsExercise/ListOfAnimalsExercise/obj/x86/Debug/ListOfAnimalsExercise.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/ListOfAnimalsExercise/ListOfAnimalsExercise/bin/Debug/ListOfAnimalsExercise.exe
+/home/martina/Sites/cs-practise/ListOfAnimalsExercise/ListOfAnimalsExercise/bin/Debug/ListOfAnimalsExercise.pdb
+/home/martina/Sites/cs-practise/ListOfAnimalsExercise/ListOfAnimalsExercise/obj/x86/Debug/ListOfAnimalsExercise.exe
+/home/martina/Sites/cs-practise/ListOfAnimalsExercise/ListOfAnimalsExercise/obj/x86/Debug/ListOfAnimalsExercise.pdb

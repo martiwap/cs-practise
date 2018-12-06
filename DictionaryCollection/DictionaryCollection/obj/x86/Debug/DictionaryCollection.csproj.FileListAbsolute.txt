@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/DictionaryCollection/DictionaryCollection/bin/Debug/DictionaryCollection.exe
+/home/martina/Sites/cs-practise/DictionaryCollection/DictionaryCollection/bin/Debug/DictionaryCollection.pdb
+/home/martina/Sites/cs-practise/DictionaryCollection/DictionaryCollection/obj/x86/Debug/DictionaryCollection.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/DictionaryCollection/DictionaryCollection/obj/x86/Debug/DictionaryCollection.exe
+/home/martina/Sites/cs-practise/DictionaryCollection/DictionaryCollection/obj/x86/Debug/DictionaryCollection.pdb

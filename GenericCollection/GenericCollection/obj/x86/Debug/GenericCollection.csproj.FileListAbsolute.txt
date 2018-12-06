@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/GenericCollection/GenericCollection/bin/Debug/GenericCollection.exe
+/home/martina/Sites/cs-practise/GenericCollection/GenericCollection/bin/Debug/GenericCollection.pdb
+/home/martina/Sites/cs-practise/GenericCollection/GenericCollection/obj/x86/Debug/GenericCollection.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/GenericCollection/GenericCollection/obj/x86/Debug/GenericCollection.exe
+/home/martina/Sites/cs-practise/GenericCollection/GenericCollection/obj/x86/Debug/GenericCollection.pdb

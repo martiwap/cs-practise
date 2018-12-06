@@ -1,0 +1,5 @@
+/home/martina/Sites/cs-practise/AnimalsAndTrainers/AnimalsAndTrainers/bin/Debug/AnimalsAndTrainers.exe
+/home/martina/Sites/cs-practise/AnimalsAndTrainers/AnimalsAndTrainers/bin/Debug/AnimalsAndTrainers.pdb
+/home/martina/Sites/cs-practise/AnimalsAndTrainers/AnimalsAndTrainers/obj/x86/Debug/AnimalsAndTrainers.csproj.CoreCompileInputs.cache
+/home/martina/Sites/cs-practise/AnimalsAndTrainers/AnimalsAndTrainers/obj/x86/Debug/AnimalsAndTrainers.exe
+/home/martina/Sites/cs-practise/AnimalsAndTrainers/AnimalsAndTrainers/obj/x86/Debug/AnimalsAndTrainers.pdb
